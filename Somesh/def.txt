@@ -1,1 +1,2 @@
-This is Unix
+This is Unix File of Amit
+Amit new command
